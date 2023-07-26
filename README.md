@@ -1,6 +1,3 @@
-Absolutely, here it is:
-
----
 
 # FakeChat - Encrypted Messaging Application
 
