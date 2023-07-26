@@ -1,4 +1,3 @@
-
 # FakeChat - Encrypted Messaging Application
 
 ## Description
@@ -25,7 +24,7 @@ FakeChat is a cutting-edge Android application that values your privacy and safe
 5. **Read Encrypted Message**: To read an encrypted message, input the correct key and hit the lock button next to the message.
 
 ## Authors
-* **Your Name** - [Your Contact Information]
+* **Or Messing** - [ormsng]
 
 
 
